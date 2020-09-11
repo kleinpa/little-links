@@ -1,0 +1,14 @@
+{
+  "name": "little-links",
+  "version": "1.0.0",
+  "description": "Chrome extension to grab shortened URLS for sharing.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Klein",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "eslint-config-prettier": "^6.11.0"
+  }
+}

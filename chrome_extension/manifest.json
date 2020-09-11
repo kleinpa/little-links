@@ -1,0 +1,16 @@
+{
+  "name": "Little Links",
+  "version": "1.0",
+  "description": "Grab a short and sharable link from your current page.",
+  "permissions": ["activeTab", "storage", "clipboardWrite"],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "images/icon128.png"
+    }
+  },
+  "icons": {
+    "128": "images/icon128.png"
+  },
+  "manifest_version": 2
+}

@@ -1,0 +1,10 @@
+#shortUrl,
+#shortUrlLabel {
+  display: block;
+}
+#shortUrl {
+  font-weight: bold;
+}
+.pending {
+  color: #aaaaaa;
+}
