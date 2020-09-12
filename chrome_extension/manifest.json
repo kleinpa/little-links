@@ -1,6 +1,6 @@
 {
   "name": "Little Links",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Grab a short and sharable link from your current page.",
   "permissions": ["activeTab", "storage", "clipboardWrite"],
   "browser_action": {

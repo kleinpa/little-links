@@ -1,4 +1,4 @@
-# <img src="chrome_extension/images/icon128.png" height="48"> Little Links
+# <img src="icon.svg" height="40"> Little Links
 
 [<img alt="Available in the Chrome Web Store" src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_340x96.png" width="170">](https://chrome.google.com/webstore/detail/neccnhlfpfpjhocackmlneadchbpklcf)
 
